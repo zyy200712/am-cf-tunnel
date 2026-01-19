@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
-https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipv4.txt@ts.hpc.tw
-https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
+https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipHK.txt@bpb.yousef.isegaro.com
+https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipJP.txt@ProxyIP.CMLiussss.net
+https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipv4.txt@ProxyIP.CMLiussss.net
+https://raw.githubusercontent.com/zcr07/am-cf-tunnel/main/ipUS.txt@ProxyIP.CMLiussss.net
 
 
